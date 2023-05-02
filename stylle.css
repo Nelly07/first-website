@@ -1,0 +1,20 @@
+body{
+    height: 800px;
+  background-image: url("https://img.freepik.com/vector-premium/pack-comida-kawaii-dibujada-mano_23-2148124759.jpg?w=2000");
+  background-size: cover;
+  background-size: 100rem;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  font-family: 'Edu NSW ACT Foundation', cursive;
+}
+p{
+    color: darkblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    color:indianred;
+}
+.Titulo-web{
+    color: darkmagenta;
+}
